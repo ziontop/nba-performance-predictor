@@ -34,7 +34,7 @@ Uses 2023-2024 NBA Regular Season player statistics from Kaggle.
 ## How to Run
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/nba-performance-predictor.git
+git clone https://github.com/ziontop/nba-performance-predictor.git
 ```
 
 2. Install dependencies
