@@ -89,7 +89,7 @@ sns.scatterplot(x=y_test, y=rf_preds, color='royalblue', s=60)
 plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], 'r--', lw=2)
 plt.xlabel("Actual PPG")
 plt.ylabel("Predicted PPG")
-plt.title("NBA Player Performance Prediction")
+plt.title("NBA Player Performance Prediction - Points")
 
 # Annotate top players
 for i, name in enumerate(names_test):
