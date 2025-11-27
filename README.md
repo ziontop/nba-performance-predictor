@@ -12,13 +12,12 @@ It applies preprocessing, scaling, cross-validation, and visualization of predic
 - Scikit-learn
 - Matplotlib / Seaborn
 
-<<<<<<< HEAD
 ## 🚀 How to Run
 1. Clone this repo:
    ```bash
    git clone https://github.com/ziontop/nba-performance-predictor.git
    cd nba-performance-predictor
-=======
+
 ## Dataset
 Uses 2023-2024 NBA Regular Season player statistics from Kaggle.
 
