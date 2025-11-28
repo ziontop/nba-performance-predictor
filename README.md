@@ -8,7 +8,7 @@ A machine learning project that predicts NBA player points per game (PPG) based 
 
 ## 📊 Project Overview
 
-This project analyzes 2023-2024 NBA season data to predict player scoring performance with high accuracy (~95% R² score). The model uses key performance metrics like shooting percentages, rebounds, assists, and playing time to make predictions.
+This project analyzes 2023-2024 NBA season data to predict player scoring performance with high accuracy (~95% R² score). The model uses key performance metrics like ** shooting percentages, rebounds, assists, and playing time ** to make predictions.
 
 ### Key Features
 
